@@ -9,7 +9,6 @@ Me chamo Brayan Fraioli, tenho 17 anos e sou natural de São Paulo. Concluí o e
         <img 
             alt="tik tok views" 
             title="Vizualizações no Tik Tok" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/typebeck-coder">
