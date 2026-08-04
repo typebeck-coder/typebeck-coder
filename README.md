@@ -7,15 +7,10 @@
 Me chamo Brayan Fraioli, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio escolar com o curso técnico em administração. Atualmente, estou cursando Desenvolvimento de Sistemas na ETEC Irmã Agostina. Sou apaixonado por tecnologia e compartilho meu conhecimento através da tik tok.
 <p align="left">
         <img 
-            alt="tik tok views" 
-            title="Vizualizações no Tik Tok" 
         />
     </a> 
     <a href="https://github.com/typebeck-coder">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
