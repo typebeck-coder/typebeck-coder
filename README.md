@@ -143,14 +143,14 @@ Me chamo Brayan Fraioli, tenho 17 anos e sou natural de São Paulo. Concluí o e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=typebeck-coder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-          />
+     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=typebeck-coder&show_icons=true&theme=tokyonight"
+/>         
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=typebeck-coder/typebeck-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=typebeck-coder&layout=compact&theme=tokyonight" 
   />
 
 </p>
