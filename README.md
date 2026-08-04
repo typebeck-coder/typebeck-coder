@@ -6,7 +6,6 @@
 
 Me chamo Brayan Fraioli, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio escolar com o curso técnico em administração. Atualmente, estou cursando Desenvolvimento de Sistemas na ETEC Irmã Agostina. Sou apaixonado por tecnologia e compartilho meu conhecimento através da tik tok.
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="tik tok views" 
             title="Vizualizações no Tik Tok" 
@@ -112,8 +111,7 @@ Me chamo Brayan Fraioli, tenho 17 anos e sou natural de São Paulo. Concluí o e
     title="Postgreesql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-           
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
