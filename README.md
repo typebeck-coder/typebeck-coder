@@ -5,15 +5,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Brayan Fraioli, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio escolar com o curso técnico em administração. Atualmente, estou cursando Desenvolvimento de Sistemas na ETEC Irmã Agostina. Sou apaixonado por tecnologia e compartilho meu conhecimento através da tik tok.
-<p align="left">
-        <img 
-        />
-    </a> 
-    <a href="https://github.com/typebeck-coder">
-        <img 
-        />
-    </a>
-</p>
+
 
 ---
 
