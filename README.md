@@ -132,3 +132,6 @@ Me chamo Brayan Fraioli, tenho 17 anos e sou natural de São Paulo. Concluí o e
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=typebeck-coder&theme=tokyonight" />
 </p>
+
+<img
+src="https://i.pinimg.com/originals/c8/7f/fb/c87ffbfdaade272b84e5a5f515c93436.gif" />
